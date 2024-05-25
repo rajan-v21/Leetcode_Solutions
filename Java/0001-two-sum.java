@@ -9,7 +9,7 @@ class TwoSum {
             mp.put(nums[i], i);
         }
         return new int[]{};
-    }
+    } 
 
     public static void main(String[] args) {
         // Create an instance of the Solution class
